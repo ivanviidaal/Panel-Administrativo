@@ -1,4 +1,4 @@
-# Panel Administrativo, By Ivanviidal
+# Panel Administrativo, By Ivanviidal.
 
 Este repositorio contiene el código fuente para un panel administrativo que incluye una landing page con información sobre el panel, un sistema de login/register y el panel administrativo en sí.
 
@@ -11,8 +11,7 @@ Este repositorio contiene el código fuente para un panel administrativo que inc
 ## Tecnologías Utilizadas
 
 - **HTML/CSS/JavaScript**: Para la estructura, estilo y funcionalidad de las páginas web.
-- **[Framework Frontend]**: Utilizado para simplificar el desarrollo frontend.
-- **[Framework Backend]**: Utilizado para gestionar la lógica del lado del servidor y las operaciones de base de datos.
+- **GLITCH**: Almacenar usuarios e informacion en una base de datos de Glitch, posibilidad de utilizar MySQL.
 
 ## Live Demo
 
