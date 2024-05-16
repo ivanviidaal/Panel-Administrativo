@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestion - Panel Administracion</title>
+    <link rel="stylesheet" href="stylegestion.css">
+    <meta name="robots" content="noindex, nofollow">
+    <link rel="icon" type="image/png" href="imagespanel/gestion.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <div class="sidebar-header">
+                <h1>Panel de Gestión</h1>
+            </div>
+            <nav class="sidebar-nav">
+                <div class="card-client">
+                    <div class="user-picture">
+                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                            <path d="M224 256c70.7 0 128-57.31 128-128s-57.3-128-128-128C153.3 0 96 57.31 96 128S153.3 256 224 256zM274.7 304H173.3C77.61 304 0 381.6 0 477.3c0 19.14 15.52 34.67 34.66 34.67h378.7C432.5 512 448 496.5 448 477.3C448 381.6 370.4 304 274.7 304z"></path>
+                        </svg>
+                    </div>
+                    <p class="name-client">
+                        <span>User</span>
+                    </p>
+                    <div class="social-media">
+                            <a href="perfil.html"><i class="fas fa-user"></i> Perfil</a>
+                            <a href="#" class="active"><i class="fas fa-home"></i> Inicio</a>
+                            <a href="#"><i class="fas fa-chart-line"></i> Estadísticas</a>
+                            <a href="#"><i class="fas fa-users"></i> Usuarios</a>
+                            <a href="documentacion.html"><i class="fas fa-file-alt"></i> Documentacion</a>
+                            <a href="#"><i class="fas fa-cog"></i> Configuración</a>
+                    </div>
+                </div>
+            </nav>
+        </div>
+        <main>
+            <header>
+                <nav>
+                    <ul>
+                        <li><a href="perfil.html"><i class="fas fa-user"></i> Perfil</a></li>
+                        <li><a href="#" onclick="logout(); return false;"><i class="fas fa-sign-out-alt"></i> Salir</a></li>
+                    </ul>
+                </nav>
+            </header>
+
+            <section class="hero-section">
+                <div class="hero-content">
+                    <h1>Bienvenido al Panel de Gestión, <span class="name-client2"></span></h1>
+                    <p>Obtén una visión general de tus datos clave en un solo lugar.</p>
+                    <a href="#" class="btn btn-primary">Empezar</a>
+                </div>
+            </section>
+
+            <section class="features-section">
+                <div class="feature-item">
+                    <i class="fas fa-chart-line"></i>
+                    <h3>Análisis avanzado</h3>
+                    <p>Obtén insights detallados sobre tus datos con nuestras herramientas de análisis.</p>
+                </div>
+                <div class="feature-item">
+                    <i class="fas fa-users"></i>
+                    <h3>Gestión de usuarios</h3>
+                    <p>Administra fácilmente a tus usuarios y controla sus permisos.</p>
+                </div>
+                <div class="feature-item">
+                    <i class="fas fa-cog"></i>
+                    <h3>Configuración flexible</h3>
+                    <p>Personaliza el panel de gestión según tus necesidades específicas.</p>
+                </div>
+            </section>
+
+            <section class="testimonials-section">
+                <h2>Lo que dicen nuestros clientes</h2>
+                <div class="testimonial-item">
+                    <img src="imagespanel/Customer1.png" alt="Client Avatar">
+                    <blockquote>
+                        <p>"¡Este panel de gestión ha sido un verdadero juego cambiante para mi negocio!"</p>
+                        <cite>- John Doe, CEO de Acme Corp</cite>
+                    </blockquote>
+                </div>
+                <div class="testimonial-item">
+                    <img src="imagespanel/Customer2.png" alt="Client Avatar">
+                    <blockquote>
+                        <p>"Nunca antes había visto una herramienta tan intuitiva y poderosa. ¡Altamente recomendada!"</p>
+                        <cite>- Jane Smith, Directora de Marketing en XYZ Inc</cite>
+                    </blockquote>
+                </div>
+            </section>
+        </main>
+    </div>
+
+<script src="scriptgestion.js"></script>
+
+</body>
+</html>
