@@ -23,7 +23,7 @@ Puedes acceder a un demo en vivo del panel administrativo [aquí](https://proyec
 ```bash
 git clone https://github.com/ivanviidaal/Panel-Administrativo
 
-cd Panel-Administrativo
+cd Panel-Administrativo```
 
 ## Contrataciones
 
