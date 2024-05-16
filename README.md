@@ -14,6 +14,10 @@ Este repositorio contiene el código fuente para un panel administrativo que inc
 - **[Framework Frontend]**: Utilizado para simplificar el desarrollo frontend.
 - **[Framework Backend]**: Utilizado para gestionar la lógica del lado del servidor y las operaciones de base de datos.
 
+## Live Demo
+
+Puedes acceder a un demo en vivo del panel administrativo [aquí](https://proyectopanel.ivansite.es/).
+
 ## Instalación
 
 ```bash
