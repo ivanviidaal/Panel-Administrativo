@@ -17,5 +17,6 @@ Este repositorio contiene el código fuente para un panel administrativo que inc
 ## Instalación
 
 ```bash
-git clone https://github.com/tu-usuario/panel-administrativo.git
-cd panel-administrativo
+git clone https://github.com/ivanviidaal/Panel-Administrativo
+
+cd Panel-Administrativo
