@@ -24,3 +24,7 @@ Puedes acceder a un demo en vivo del panel administrativo [aquí](https://proyec
 git clone https://github.com/ivanviidaal/Panel-Administrativo
 
 cd Panel-Administrativo
+
+## Contrataciones
+
+El panel administrativo es de uso gratuito y está disponible para su uso según los términos de la [Licencia MIT](LICENSE). Sin embargo, si necesitas realizar modificaciones específicas o implementar nuevas funcionalidades personalizadas, estoy disponible para contrataciones. Puedo ajustar el panel a tus necesidades y requerimientos específicos. Si estás interesado en contratar mis servicios, no dudes en contactarme a través de [mi sitio web](https://ivansite.es/#contacto).
