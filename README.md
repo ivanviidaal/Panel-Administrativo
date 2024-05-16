@@ -1,7 +1,7 @@
-##Panel Administrativo
+# Panel Administrativo
 Este repositorio contiene el código fuente para un panel administrativo que incluye una landing page con información sobre el panel, un sistema de login/register y el panel administrativo en sí.
 
-#Características
+## Características
 Landing Page: Una página inicial que proporciona información sobre el panel administrativo, su propósito y funcionalidades.
 Login/Register: Un sistema de autenticación que permite a los usuarios registrarse e iniciar sesión en el panel administrativo.
 Panel Administrativo: Una interfaz de usuario donde los usuarios autenticados pueden acceder y gestionar diferentes aspectos del sistema.
@@ -19,7 +19,7 @@ bash
 Copiar código
 cd panel-administrativo
 Abre el archivo index.html en tu navegador web para acceder a la landing page.
-#Uso
+## Uso
 Accede a la landing page para obtener información sobre el panel administrativo.
 Regístrate como nuevo usuario si es necesario.
 Inicia sesión con tus credenciales.
