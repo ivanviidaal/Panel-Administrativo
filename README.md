@@ -1,4 +1,4 @@
-#Panel Administrativo
+##Panel Administrativo
 Este repositorio contiene el código fuente para un panel administrativo que incluye una landing page con información sobre el panel, un sistema de login/register y el panel administrativo en sí.
 
 #Características
